@@ -1,0 +1,36 @@
+src/*.exe
+src/johnolivercoin
+src/johnolivercoind
+src/test_johnolivercoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.johnolivercoin
+/build
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+johnolivercoin-qt
+Johnolivercoin-Qt.app
+
+# Unit-tests
+Makefile.test
+johnolivercoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
+
