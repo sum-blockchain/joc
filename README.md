@@ -1,4 +1,4 @@
-This project is inspired by the John Olivers Cryptocurrency segment to show just how easy it is to create a new coin. 
+This project was inspired by the John Olivers Cryptocurrency segment to show just how easy it is to create a new coin. 
 
 * Name = johnolivercoin (JOC)
 * Initial Reward = 1,000 coins (why not)
